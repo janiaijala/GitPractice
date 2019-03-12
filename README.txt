@@ -1,0 +1,1 @@
+Tämä on harjoittelu, jolla koitan opetella GITin käyttöä jouhevasti.
