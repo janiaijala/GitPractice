@@ -4,5 +4,5 @@ Kokeilen laittaa uudesta branchista ensin local masteriin ja siitä sitten origi
 Ja sitten jotain muuta.
 Nyt masteriin on lisätty yksi rivi.
 Tämä rivi ennen advanced riviä.
-
 Ja vielä advanced testi.
+
